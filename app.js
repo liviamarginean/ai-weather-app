@@ -54,3 +54,4 @@ function renderWeather({ cityDisplay, current }) {
     </div>
   `;
 }
+// Noua functie
